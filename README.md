@@ -34,3 +34,22 @@ case "4": berguna Jika pilihan sama dengan "4", maka kode di bawahnya akan dijal
 case "5": berguna Jika pilihan sama dengan "5", maka kode di bawahnya akan dijalankan yang berfungsi untuk keluar dari program.
 
 
+#output
+pada saat kita menjalankan program maka akan langsung terlihat beberapa fitur yang bisa digunakan oleh user seperti menambahkan data, melihat data, mengubah data, dan menghapus data lalu pada fitur yang terakhir yaitu keluar dari program contoh nya sebagai berikut ini
+# Fitur menambahkan Data
+
+![image](https://github.com/RanggaSanjayaSakti/Posttest_2/assets/122283752/42156719-b387-4a9b-8b4b-e03f54fe8618)
+
+# Fitur melihat data
+
+![image](https://github.com/RanggaSanjayaSakti/Posttest_2/assets/122283752/beacfd6d-6258-496c-94df-6a4121e4864b)
+
+# Fitur Mengubah data
+
+![image](https://github.com/RanggaSanjayaSakti/Posttest_2/assets/122283752/1ce89ae6-ae0c-4fa6-b64b-254b4927c46e)
+
+# Fitur Menghapus data
+
+![image](https://github.com/RanggaSanjayaSakti/Posttest_2/assets/122283752/0462b9d0-c56d-4bec-a9b1-3c3e03b72696)
+
+
